@@ -1,4 +1,4 @@
-## Before submitting, make sure your project has all of these requirements!
+## Before submitting, make sure your project meets all of these requirements!
 
 ### Checklist
 - [ ] A paragraph introducing yourself
