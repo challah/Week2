@@ -1,6 +1,7 @@
 ## Before submitting, make sure your project meets all of these requirements!
 
 ### Checklist
+**Use an `[x]` to mark completed tasks!**
 - [ ] A paragraph introducing yourself
 - [ ] A paragraph about your dreams & goals!
 - [ ] An unordered list of your interests
